@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\CreatingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E993F2-A8C8-499E-A553-FE2A220717C7}|CreatingProject\\CreatingProject.csproj|c:\\users\\phoenix\\documents\\learning\\c# learning\\projects\\creatingproject\\creatingproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E993F2-A8C8-499E-A553-FE2A220717C7}|CreatingProject\\CreatingProject.csproj|solutionrelative:creatingproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E993F2-A8C8-499E-A553-FE2A220717C7}|CreatingProject\\CreatingProject.csproj|C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\CreatingProject\\creatingproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9E993F2-A8C8-499E-A553-FE2A220717C7}|CreatingProject\\CreatingProject.csproj|solutionrelative:creatingproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E993F2-A8C8-499E-A553-FE2A220717C7}|CreatingProject\\CreatingProject.csproj|C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\CreatingProject\\creatingproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E993F2-A8C8-499E-A553-FE2A220717C7}|CreatingProject\\CreatingProject.csproj|solutionrelative:creatingproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\CreatingProject\\CreatingProject\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CreatingProject\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\CreatingProject\\CreatingProject\\Form1.Designer.cs",
+              "RelativeToolTip": "CreatingProject\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:19:50.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\CreatingProject\\CreatingProject\\Form1.cs",
+              "RelativeDocumentMoniker": "CreatingProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\CreatingProject\\CreatingProject\\Form1.cs",
+              "RelativeToolTip": "CreatingProject\\Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:18:48.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\CreatingProject\\CreatingProject\\Form1.cs",
+              "RelativeDocumentMoniker": "CreatingProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\PHOENIX\\Documents\\Learning\\C# Learning\\Projects\\CreatingProject\\CreatingProject\\Form1.cs [Design]",
+              "RelativeToolTip": "CreatingProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:59:07.645Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

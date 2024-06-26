@@ -1,0 +1,10 @@
+C:\Users\PHOENIX\Documents\Learning\C# Learning\Projects\CreatingProject\CreatingProject\bin\Debug\CreatingProject.exe.config
+C:\Users\PHOENIX\Documents\Learning\C# Learning\Projects\CreatingProject\CreatingProject\bin\Debug\CreatingProject.exe
+C:\Users\PHOENIX\Documents\Learning\C# Learning\Projects\CreatingProject\CreatingProject\bin\Debug\CreatingProject.pdb
+C:\Users\PHOENIX\Documents\Learning\C# Learning\Projects\CreatingProject\CreatingProject\obj\Debug\CreatingProject.csproj.AssemblyReference.cache
+C:\Users\PHOENIX\Documents\Learning\C# Learning\Projects\CreatingProject\CreatingProject\obj\Debug\CreatingProject.frmMain.resources
+C:\Users\PHOENIX\Documents\Learning\C# Learning\Projects\CreatingProject\CreatingProject\obj\Debug\CreatingProject.Properties.Resources.resources
+C:\Users\PHOENIX\Documents\Learning\C# Learning\Projects\CreatingProject\CreatingProject\obj\Debug\CreatingProject.csproj.GenerateResource.cache
+C:\Users\PHOENIX\Documents\Learning\C# Learning\Projects\CreatingProject\CreatingProject\obj\Debug\CreatingProject.csproj.CoreCompileInputs.cache
+C:\Users\PHOENIX\Documents\Learning\C# Learning\Projects\CreatingProject\CreatingProject\obj\Debug\CreatingProject.exe
+C:\Users\PHOENIX\Documents\Learning\C# Learning\Projects\CreatingProject\CreatingProject\obj\Debug\CreatingProject.pdb
